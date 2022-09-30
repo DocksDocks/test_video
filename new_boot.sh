@@ -21,5 +21,5 @@ then
     touch $filenameA
 fi
 
-printf "@bash /home/pi/slide.sh" > $filenameA 
+printf "@bash /home/pi/launcher.sh" > $filenameA 
 
